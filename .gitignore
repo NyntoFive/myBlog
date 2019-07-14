@@ -1,3 +1,6 @@
 .DS_Store
 *.pyc
 myBlog-Space.code-workspace
+settings.json
+myBlog-Space.code-workspace
+launch.json
