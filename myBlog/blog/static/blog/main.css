@@ -1,5 +1,5 @@
 body {
-    background: #fafafa;
+    background: #000000 url('shuttle1.jpg') no-repeat right fixed;
     color: #333333;
     margin-top: 5rem;
 }
@@ -36,7 +36,7 @@ ul {
 .content-section {
     background: #ffffff;
     padding: 10px 20px;
-    border: 1px solid #dddddd;
+    border: 2px solid #000000;
     border-radius: 3px;
     margin-bottom: 20px;
 }
