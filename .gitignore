@@ -5,3 +5,4 @@ settings.json
 myBlog-Space.code-workspace
 launch.json
 posts.json
+.env
