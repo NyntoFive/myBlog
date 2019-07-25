@@ -1,2 +1,2 @@
 # myBlog
-Django 2.2 Blog
+Django 2.2 Blog -- Tutorial Series from CoreyMShafer
