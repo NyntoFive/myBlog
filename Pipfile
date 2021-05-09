@@ -4,9 +4,10 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [dev-packages]
-pylint = "*"
-pytest = "*"
-flake8 = "*"
+black = "*"
+isort = "*"
+django-extensions = "*"
+ipython = "*"
 pep8 = "*"
 
 [packages]
@@ -15,4 +16,4 @@ django-crispy-forms = "*"
 pillow = "*"
 
 [requires]
-python_version = "3.7"
+python_version = "3.9"
